@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import {HashRouter as Router, Route, Routes, Link} from 'react-router-dom';
+import {BrowserRouter as Router, Route, Routes, Link} from 'react-router-dom';
 import './App.css';
 import HelloWorld from './HelloWorld.jsx';
 import FilteredList from './FilteredList.jsx';
